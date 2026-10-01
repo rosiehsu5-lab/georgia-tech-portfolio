@@ -10,6 +10,8 @@ Pengu Delivery is a 3D Unity game developed by a Georgia Tech student team. The 
 
 [Read the technical case study](projects/pengu-delivery.md)
 
+**[Browse the Unity game source](https://github.com/rosiehsu5-lab/georgia-tech-portfolio/tree/pengu-delivery-game)** — includes the game scripts, scenes, prefabs, packages, and Unity project settings.
+
 My contributions included:
 
 - Designing and implementing interactive storyline and tutorial flows.
@@ -81,4 +83,3 @@ Worked with an OMOP-backed FHIR service using Python, SQLAlchemy, Docker, and cl
 ## Repository policy
 
 This repository is a curated portfolio, not a submission archive. It excludes graded solutions, answer keys, private institutional data, credentials, proprietary datasets, licensed asset packs, and code authored by teammates without permission.
-
